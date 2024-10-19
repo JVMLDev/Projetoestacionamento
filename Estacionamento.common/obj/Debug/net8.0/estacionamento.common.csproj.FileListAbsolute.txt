@@ -1,0 +1,11 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\bin\Debug\net8.0\estacionamento.common.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\bin\Debug\net8.0\estacionamento.common.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\bin\Debug\net8.0\estacionamento.common.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\refint\estacionamento.common.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\estacionamento.common.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Projetoestacionamento\estacionamento.common\obj\Debug\net8.0\ref\estacionamento.common.dll
